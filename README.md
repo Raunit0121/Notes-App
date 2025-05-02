@@ -8,7 +8,7 @@ A simple and clean **Notes Management** application built with **Flutter** and *
 
 |Splash Screen | Home Screen | Add Note Screen |
 |:------------|:----------------|:----------------|
-|(![Screenshot 2025-05-02 141718](https://github.com/user-attachments/assets/48248cd8-e6d6-467b-ac77-6b8924b23fd2) |(![Screenshot 2025-05-02 141550](https://github.com/user-attachments/assets/6026d782-e5c0-4a59-b5e0-e3a27db074d4)|(![Screenshot 2025-05-02 141620](https://github.com/user-attachments/assets/2c9ad7d7-88ed-459e-83e8-163818fd391a)
+|![Screenshot 2025-05-02 141718](https://github.com/user-attachments/assets/48248cd8-e6d6-467b-ac77-6b8924b23fd2) |![Screenshot 2025-05-02 141550](https://github.com/user-attachments/assets/6026d782-e5c0-4a59-b5e0-e3a27db074d4)|![Screenshot 2025-05-02 141620](https://github.com/user-attachments/assets/2c9ad7d7-88ed-459e-83e8-163818fd391a)
 
 ---
 
